@@ -1,0 +1,11 @@
+
+V13.0.15
+1) Stable and error fixes.
+
+V13.0.13
+1) Stable fix, recommended.
+
+V13.0.10
+1) Allow user to set weather forecast api key.
+2) Fix theme loop issue: cyber rain can't be looped after reboot.
+3) Other minor fixes.
